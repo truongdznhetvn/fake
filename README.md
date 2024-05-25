@@ -33,7 +33,7 @@ getgenv().config = {
             },
         },
         ["Blox Fruit"] = {
-            ["Enable"] = true,
+            ["Enable"] = false,
             ["Delay"] = 3,
             ["Skills"] = {
                 ["Z"] = {
